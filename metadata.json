@@ -1,0 +1,7 @@
+{
+  "name": "COTES - Controle de Tempo e Estudo",
+  "description": "Uma plataforma inteligente de gestão de estudos com gamificação, IA para geração de conteúdo e analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
